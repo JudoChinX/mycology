@@ -58,6 +58,8 @@
 
 [Needles](https://www.amazon.com/gp/product/B09FPLZF72/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+[Sorgum Syrup](https://www.amazon.com/gp/product/B00C33UUIO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 ## Grow Containers
 [54 Quart Gasket Tub](https://www.walmart.com/ip/Sterilite-54-Quart-Clear-Gasket-Box-with-Blue-Latches-Gasket/39922428)
 

@@ -7,7 +7,7 @@
 - **Water** - 500ml
 
 ## Supplies
-- **Quart Mason Jar w/ Lid and Ring**
+- **Quart Mason Jar w/ Lid and Ring** (Wide Mouth)
 - **2oz Snack Cups w/ Lids** - 50
 - **Aluminum Foil**
 - **Instant Read Thermometer**
