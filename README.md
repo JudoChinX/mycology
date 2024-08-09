@@ -1,7 +1,9 @@
 # Recipes
 [Agar Cups](recipes/agar-cups.md)
 
-[Making CVG Substrate](recipes/Making%20CVG%20Substrate.pdf)
+[Agar Plates (Advanced)](recipes/agar-plates-advanced.md)
+
+[CVG Substrate](recipes/cvg_substrate.md)
 
 [Making Liquid Culture](recipes/Making%20Liquid%20Culture.pdf)
 

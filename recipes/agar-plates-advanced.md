@@ -1,4 +1,4 @@
-# Agar Dishes (Advanced)
+# Agar Plates (Advanced)
 
 ## Ingredients
 - **Agar Agar Powder** - 10 grams
