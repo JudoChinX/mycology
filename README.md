@@ -5,6 +5,8 @@
 
 [CVG Substrate](recipes/cvg_substrate.md)
 
+[Making Liquid Culture (Basic)](recipes/liquid-culture-basic.md)
+
 [Making Liquid Culture (Advanced)](recipes/liquid-culture-advanced.md)
 
 [Making Wild Bird Seed (WBS) Grain Spawn](recipes/Making%20WBS%20(Wild%20Bird%20Seed)%20Grain%20Spawn.pdf)
