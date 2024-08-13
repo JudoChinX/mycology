@@ -16,7 +16,7 @@ trichoderma and treated with salt. Instead, use coir intended for reptiles as th
 
 ## Directions
 1. Fill **5 Gallon Bucket** with **Coco Coir** and **Vermiculite**.
-2. Fill **Pot** with water and bring to a boil.
+2. Fill **Pot** with **Water** and bring to a boil.
 3. Add boiling **Water** to **Bucket** and seal **Bucket** with **Lid**.
 4. Allow 5 minutes for **Water** to absorb.
 5. Remove **Lid** and add **Gypsum**.
