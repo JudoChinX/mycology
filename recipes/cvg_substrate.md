@@ -2,7 +2,7 @@
 
 ## Ingredients
 - **Coco Coir** - 650g brick
-- **Vermiculite**
+- **Vermiculite** - 8 cups
 - **Gypsum** - 1 cup
 - **Water** - 18 cups
 
