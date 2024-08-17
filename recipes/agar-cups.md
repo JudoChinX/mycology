@@ -26,6 +26,7 @@
     - Ensure mixture is periodically mixed while dropping to or holding at 115F, otherwise it will begin to
 congeal. This is best done using a **Magnetic Stirrer** but can also be done by manually rotating the **Quart Mason Jar**.
     - Measure temperature from the external surface of the jar using an **Instant Read Thermometer**. Do not insert thermometer into agar mixture as this will risk contamination.
+- Move the **Quart Mason Jar** and **2oz Snack Cups w/ Lids** to **Still Air Box**, **Glove box**, or **Flow Hood** in prepartion for pouring. If using a **Still Air Box** or **Glove Box**, allow 10 minutes for air to settle before moving onto the next step.
 - One snack cup at a time, fill approximately 1/4 full (1/2oz), then seal with lid.
     - Stack these at least 5 tall. This helps lids be clear of condensation after cooling
 - Allow cups to cool before moving.

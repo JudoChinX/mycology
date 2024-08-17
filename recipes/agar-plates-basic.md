@@ -1,9 +1,8 @@
-# Agar Plates (Advanced)
+# Agar Plates (Basic)
 
 ## Ingredients
 - **Agar Agar Powder** - 10 grams
-- **Sorghum Syrup** - 12 grams
-- **Yeast Extract** - .5 grams
+- **Light Malt Extract (LME)** - 15 grams
 - **Water** - 500ml
 - **Food Coloring**
 
@@ -20,7 +19,7 @@
 
 ## Directions
 - Heat **Water** and transfer to **Quart Mason Jar**.
-- Add **Sorghum Syrup**, **Agar Agar Powder**, **Yeast Extract**, and as much **Food Coloring** as desired, then stir.
+- Add **LME**, **Agar Agar Powder**, and as much **Food Coloring** as desired, then stir.
 - Add **Magnetic Stir Bar** to **Quart Mason Jar** and loosely fit **Lid and Ring**. Cover lid with **Aluminum Foil**.
 - Transfer **Quart Mason Jar** to **Pressure Cooker**. Following the manufacturers directions, bring **Pressure Cooker** to 15 PSI and hold for 45 minutes.
 - Remove **Pressure Cooker** from heat and allow time for pressure to drop to 0 PSI.
