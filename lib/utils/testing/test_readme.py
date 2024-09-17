@@ -2,15 +2,12 @@
 import os
 
 def check_files_in_readme():
-    recipe_dir = 'mycology/recipes'
+    recipe_dir = 'mycology/documents'
     recipe_objects = os.listdir(recipe_dir)
-    recipe_files = [file for file in recipe_objects if os.path.isfile(os.path.join(recipe_dir, file))]
+    files_to_check = [file for file in recipe_objects if os.path.isfile(os.path.join(recipe_dir, file))]
 
-    resource_dir = 'mycology/resources'
-    resource_objects = os.listdir(resource_dir)
-    resource_files = [file for file in resource_objects if os.path.isfile(os.path.join(resource_dir, file))]
-
-    files_to_check = recipe_files + resource_files
+    if not files_to_check:
+        print('No files found in the recipe directory.')
 
     readme_file = 'mycology/README.md'
     with open(readme_file, 'r') as file:
