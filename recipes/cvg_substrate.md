@@ -16,9 +16,9 @@ trichoderma and treated with salt. Instead, use coir intended for reptiles as th
 
 ## Directions
 1. Fill **5 Gallon Bucket** with **Coco Coir** and **Vermiculite**.
-2. Fill **Pot** with **Water** and bring to a boil.
-3. Add boiling **Water** to **Bucket** and seal **Bucket** with **Lid**.
-4. Allow 5 minutes for **Water** to absorb.
-5. Remove **Lid** and add **Gypsum**.
-6. Using the **Power Drill with Mud Mixing Bit**, set drill to reverse, and thoroughly mix CVG substrate mixture. Alternatively, use a large spoon or spatula to mix the mixture.
-7. Seal **Bucket** with **Lid** and allow the CVG substrate mixture to cool. Once at room temperature, the substrate is ready to use.
+1. Fill **Pot** with **Water** and bring to a boil.
+1. Add boiling **Water** to **Bucket** and seal **Bucket** with **Lid**.
+1. Allow 5 minutes for **Water** to absorb.
+1. Remove **Lid** and add **Gypsum**.
+1. Using the **Power Drill with Mud Mixing Bit**, set drill to reverse, and thoroughly mix CVG substrate mixture. Alternatively, use a large spoon or spatula to mix the mixture.
+1. Seal **Bucket** with **Lid** and allow the CVG substrate mixture to cool. Once at room temperature, the substrate is ready to use.

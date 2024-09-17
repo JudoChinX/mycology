@@ -11,7 +11,7 @@
 
 [Liquid Culture (Advanced)](recipes/liquid-culture-advanced.md)
 
-[Making Wild Bird Seed (WBS) Grain Spawn](recipes/Making%20WBS%20(Wild%20Bird%20Seed)%20Grain%20Spawn.pdf)
+[Wild Bird Seed (WBS) Grain Spawn](recipes/wbs-spawn.md)
 
 # Resources
 [Automated Modified Tub](resources/automated-modified-tub.md)
