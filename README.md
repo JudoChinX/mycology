@@ -5,7 +5,7 @@
 
 [Agar Plates (Advanced)](documents/agar-plates-advanced.md)
 
-[CVG Substrate](documents/cvg_substrate.md)
+[CVG Substrate](documents/cvg-substrate.md)
 
 [Liquid Culture (Basic)](documents/liquid-culture-basic.md)
 
