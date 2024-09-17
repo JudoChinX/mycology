@@ -16,6 +16,8 @@ def check_files_in_readme():
     with open(readme_file, 'r') as file:
         file_contents = file.read()
 
+    print('Checking README.md for all recipe and resource files.')
+
     for file in files_to_check:
         if ' ' in file:
             # Replace spaces in filename with %20.
