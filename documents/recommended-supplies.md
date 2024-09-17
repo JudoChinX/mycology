@@ -10,6 +10,7 @@
 - [Impulse Sealer](https://www.amazon.com/gp/product/B097YC5JQK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [Temperature Controller (Inkbird)](https://www.amazon.com/gp/product/B07PVBG8K1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Humidity Controller (Inkbird)](https://www.amazon.com/gp/product/B0892B3VWM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Scale](https://www.amazon.com/gp/product/B0012LOQUQ/ref=ppx_wyo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Grain Spawn
 - [Wild Bird Seed](https://www.pennington.com/all-products/wild-bird/classic-wild-bird-feed)
