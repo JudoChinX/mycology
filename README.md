@@ -14,6 +14,8 @@
 [Wild Bird Seed (WBS) Grain Spawn](documents/wbs-spawn.md)
 
 # Resources
-[Automated Modified Tub](documents/automated-modified-tub.md)
+[Automated Modified Tub Instructions](documents/automated-modified-tub.md)
+
+[Cheat Sheet](documents/cheat-sheet.md)
 
 [Recommended Supplies](documents/recommended-supplies.md)
