@@ -12,65 +12,65 @@
 - **Permanent Marker**
 - **Ruler**
 
-![Supplies](images/automated-modified-tub-images/0_supplies.png)
+![Supplies](images/automated-modified-tub/0_supplies.png)
 
 ## Directions
 
 ### 1. Mark 1-1/2 Inch Inlet Air Holes
 Begin by marking six 1-1/2 inch air inlet holes 3 inches from the bottom of the tub. There will be one inlet on the short sides of the tub and two on the long sides of the tub.
 
-![Mark Holes (Long Side)](images/automated-modified-tub-images/1_mark_hole_front.png)
+![Mark Holes (Long Side)](images/automated-modified-tub/1_mark_hole_front.png)
 - On the long sides of the tub, these marks should be aligned to the inside of each handle.
 
-![Mark Holes (Short Side)](images/automated-modified-tub-images/1_mark_hole_side.png)
+![Mark Holes (Short Side)](images/automated-modified-tub/1_mark_hole_side.png)
 - On the short sides of the tub, these marks should be centered.
 - Note the presence of a thin, clear, plastic line exactly 3 inches from the bottom of the tub. This can be used instead of a ruler.
 
 ### 2. Cut 1-1/2 Inch Air Holes
 
-![Small Hole Drill](images/automated-modified-tub-images/2_small_hole_drill.png)
+![Small Hole Drill](images/automated-modified-tub/2_small_hole_drill.png)
 - Using the **Power Drill** and **1-1/2 Inch Hole Saw Drill Bit**, turn your drill to forward and drill out the center of each of the six 1-1/2 inch holes. Take care to not let the circular saw portion of the bit touch the plastic as this can lead to your tub cracking.
 
-![Small Holes Done](images/automated-modified-tub-images/2_small_holes_done.png)
+![Small Holes Done](images/automated-modified-tub/2_small_holes_done.png)
 
-![Large Hole Drill](images/automated-modified-tub-images/2_large_hole_drill.png)
+![Large Hole Drill](images/automated-modified-tub/2_large_hole_drill.png)
 - With all six holes started, turn your drill to reverse and use the circular saw portion of the bit to remove the 1-1/2 inch circles. Apply little pressure and allow the bit to melt through the plastic. This will ensure you get clean holes with no cracks.
 
-![Large Holes Done](images/automated-modified-tub-images/2_large_holes_done.png)
+![Large Holes Done](images/automated-modified-tub/2_large_holes_done.png)
 
 ### 3. Drill Holes for and Mount Exhaust Fan
 
-![Fan Positioning](images/automated-modified-tub-images/3_fan_drill_positioning.png)
+![Fan Positioning](images/automated-modified-tub/3_fan_drill_positioning.png)
 - With the tub on its side, position your exhaust fan between the handles on one of the tub's long sides. Ensure the fan is parallel to the bottom of the tub.
 
-![Fan Drill One](images/automated-modified-tub-images/3_fan_drill_one.png)
+![Fan Drill One](images/automated-modified-tub/3_fan_drill_one.png)
 - Using your **Power Drill** and **Drill Bit Matching Fan Mounting Hardware**, drill through one of the top two fan holes.
 
-![Fan Screw One](images/automated-modified-tub-images/3_fan_screw_one.png)
+![Fan Screw One](images/automated-modified-tub/3_fan_screw_one.png)
 - From inside the tub, insert one of the bolts and affix with its corresponding nut from the outside of the tub.
 
-![Fan Positioning Two](images/automated-modified-tub-images/3_fan_drill_positioning_two.png)
+![Fan Positioning Two](images/automated-modified-tub/3_fan_drill_positioning_two.png)
 - Hang the fan from the bolt and position, again ensuring the fan is parallel to the bottom of the tub.
 - From the inside of the tub, insert the remaining bolt and affix with its corresponding nut from the outside of the tub.
 
-![Fan Drill Two](images/automated-modified-tub-images/3_fan_drill_two.png)
+![Fan Drill Two](images/automated-modified-tub/3_fan_drill_two.png)
 - Using your **Power Drill** and **Drill Bit Matching Fan Mounting Hardware**, drill the remaining fan hole.
 
-![Mark Exhaust](images/automated-modified-tub-images/3_mark_exhaust_outlet.png)
+![Mark Exhaust](images/automated-modified-tub/3_mark_exhaust_outlet.png)
 - Between the fan mounting bolts and 1 inch down, make a mark for the 1-1/2 inch fan exhaust.
 - Using the **Power Drill** and **1-1/2 Inch Hole Saw Drill Bit**, remove the center of the hole with the drill on forward, then melt through the 1-1/2 inch circle with the drill on reverse.
 
-![Fan Screws Done](images/automated-modified-tub-images/3_fan_screws_done.png)
+![Fan Screws Done](images/automated-modified-tub/3_fan_screws_done.png)
 
 ### 4. Apply Tape to Air Holes
 
-![Paper Tape](images/automated-modified-tub-images/4_paper_tape_finished.png)
+![Paper Tape](images/automated-modified-tub/4_paper_tape_finished.png)
 - Cover each of the 7 1-1/2 inch air holes with two layers of **2 Inch Wide Paper Tape**
 
-![Masking Tape](images/automated-modified-tub-images/4_masking_tape_finished.png)
+![Masking Tape](images/automated-modified-tub/4_masking_tape_finished.png)
 - Cover each of the 7 1-1/2 inch air holes with a single layer of **2 Inch Wide Masking Tape**
 
-![Finished with Fan](images/automated-modified-tub-images/4_finished_fan.png)
+![Finished with Fan](images/automated-modified-tub/4_finished_fan.png)
 - Slide the fan onto its two mounting bolts.
 - Fan is intended to be a hot swappable component and is not secured to the tub beyond it resting on its two bolts. This is handy when removing the tub for harvest or other maintenance tasks.
 
