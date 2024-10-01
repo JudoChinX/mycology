@@ -27,4 +27,3 @@ def check_image_metadata(image_file_types: list = ['png', 'jpg', 'jpeg'], image_
 
 if __name__ == '__main__':
     check_image_metadata()
-
