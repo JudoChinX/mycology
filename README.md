@@ -18,4 +18,4 @@
 
 [Cheat Sheet](documents/cheat-sheet.md)
 
-[Recommended Supplies](documents/recommended-supplies.md)
+[Recommended Ingredients and Supplies](documents/recommended-ingredients-supplies.md)

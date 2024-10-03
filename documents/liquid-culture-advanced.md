@@ -1,9 +1,9 @@
 # Liquid Culture (Advanced)
 
 ## Ingredients
-- **Karo Syrup** - 42 grams
+- **Sorghum Syrup** - 42 grams
 - **Bovine Peptone** - 2.5 grams
-- **Light Malt Extract (LME)** - 3.7 grams
+- **Light Malt Extract (LME)** - 4 grams
 - **Distilled Water** - 1500ml
 
 ## Supplies
@@ -17,7 +17,7 @@
 
 ## Directions
 1. Bring **Distilled Water** to a boil.
-1. Add **Karo Syrup**, **Bovine Peptone**, and **Light Malt Extract (LME)** and stir thoroughly.
+1. Add **Sorghum Syrup**, **Bovine Peptone**, and **Light Malt Extract (LME)** and stir thoroughly.
 1. Divide mixture between **Wide Mouth Mason Jars**.
 1. Add one **Magnetic Stir Bar** per jar.
 1. Top jars with **Wide Mouth Mason Jar Lids with Self Healing Injection Ports and Sticker Filters**, then loosely secure with **Ring**. **Rings** should be screwed on, but able wiggle back and forth. The goal is to ensure that as the mixture in each jar boils, steam can escape without having to travel through the filter patch.
