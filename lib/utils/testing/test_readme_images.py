@@ -1,5 +1,7 @@
 import re
+
 from lib import file_utils
+
 
 def check_readme_images(image_file_types: list, image_dirs: list, document_file_types: list, documents_dirs: list) -> None:
     """

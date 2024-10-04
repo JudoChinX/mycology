@@ -1,5 +1,6 @@
 import os
 
+
 def find_files_with_extensions(file_dirs: list, file_extensions: list) -> list:
     """
     Recursively searches for files with specified extensions in given directories.

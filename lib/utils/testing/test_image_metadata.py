@@ -2,6 +2,7 @@ import exifread
 
 from lib import file_utils
 
+
 def check_image_metadata(image_file_types: list, image_dirs: list) -> None:
     """
     Check the metadata of all image files in the specified directory.
