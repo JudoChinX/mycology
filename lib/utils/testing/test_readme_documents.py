@@ -19,7 +19,7 @@ def check_readme_documents(readme_file: str, document_directories: list) -> None
     if not files_to_check:
         print('No files found in the recipe directory.')
 
-    with open(readme_file, 'r') as file:
+    with open(readme_file, 'r', encoding='utf8') as file:
         file_contents = file.read()
 
     print('Checking README.md for all recipe and resource files.')

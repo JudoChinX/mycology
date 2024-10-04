@@ -15,7 +15,7 @@ def check_readme_images(image_file_types: list, image_dirs: list, document_file_
     linked_images = []
     for file in markdown_files:
         parent_dir = file.split('/')[0]
-        with open(file, 'r') as open_file:
+        with open(file, 'r', encoding='utf8') as open_file:
             file_content = open_file.read()
             regex = re.compile(r'\((?P<data>\S*)\)')
             matches = re.findall(regex, file_content)

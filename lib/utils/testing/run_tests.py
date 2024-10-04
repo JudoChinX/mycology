@@ -5,7 +5,7 @@ from test_readme_images import check_readme_images
 DOCUMENT_DIRECTORIES=['documents']
 DOCUMENT_FILE_TYPES=['.md']
 IMAGE_DIRECTORIES=['documents/images']
-IMAGE_FILE_TYPES=['png', 'jpg', 'jpeg']
+IMAGE_FILE_TYPES=['heic', 'jpg', 'jpeg', 'png']
 README_FILES=['README.md']
 
 # Check the metadata of all image files in the specified directory.

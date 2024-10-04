@@ -1,4 +1,5 @@
-from PIL import Image
+import exifread
+
 from lib import file_utils
 
 def check_image_metadata(image_file_types: list, image_dirs: list) -> None:
@@ -14,7 +15,7 @@ def check_image_metadata(image_file_types: list, image_dirs: list) -> None:
     print('Checking image metadata for all image files.')
 
     for file in image_files:
-        open_file = Image.open(file)
-        metadata = open_file._getexif()
-        if metadata:
-            print(f'\nMetadata for {file}: {metadata}\n')
+        with open(file, 'rb') as open_file:
+            metadata = exifread.process_file(open_file)
+            if metadata:
+                print(f'\nMetadata for {file}: {metadata}\n')
