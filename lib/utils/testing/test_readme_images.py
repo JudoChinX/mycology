@@ -1,8 +1,7 @@
-import os
 import re
 from lib import file_utils
 
-def check_readme_images(image_file_types: list = ['png', 'jpg', 'jpeg'], image_dirs: list = ['documents/images'], document_file_types: list = ['.md'], documents_dirs: list = ['documents']):
+def check_readme_images(image_file_types: list, image_dirs: list, document_file_types: list, documents_dirs: list) -> None:
     """
     Check that all image files in the image_dir are linked in the markdown files in documents_dir.
 
@@ -28,6 +27,3 @@ def check_readme_images(image_file_types: list = ['png', 'jpg', 'jpeg'], image_d
 
     for file in image_files:
         assert file in linked_images, f'{file} not found in any markdown files.'
-
-if __name__ == '__main__':
-    check_readme_images()

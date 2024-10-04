@@ -1,7 +1,7 @@
 # This script checks that all recipe and resource files are listed in the root README.md file.
 import os
 
-def check_readme_documents(readme_file: str = 'README.md', document_directories: list = ['documents']) -> None:
+def check_readme_documents(readme_file: str, document_directories: list) -> None:
     """
     Check that all recipe and resource files are listed in the root README.md file.
 
@@ -26,6 +26,3 @@ def check_readme_documents(readme_file: str = 'README.md', document_directories:
 
     for file in files_to_check:
         assert file in file_contents, f'{file} not found in README.md'
-
-if __name__ == '__main__':
-    check_readme_documents()
