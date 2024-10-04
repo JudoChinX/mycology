@@ -5,8 +5,7 @@ from test_readme_images import check_readme_images
 DOCUMENT_DIRECTORIES=['documents']
 DOCUMENT_FILE_TYPES=['.md']
 IMAGE_DIRECTORIES=['documents/images']
-IMAGE_FILE_TYPES=['heic', 'jpg', 'jpeg', 'png']
-README_FILES=['README.md']
+IMAGE_FILE_TYPES=['.heic', '.jpg', '.jpeg', '.png']
 
 # Check the metadata of all image files in the specified directory.
 check_image_metadata(
@@ -17,6 +16,7 @@ check_image_metadata(
 # Check that all recipe and resource files are listed in the root README.md file.
 check_readme_documents(
     readme_file='README.md',
+    document_file_types=DOCUMENT_FILE_TYPES,
     document_directories=DOCUMENT_DIRECTORIES
 )
 

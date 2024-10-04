@@ -13,10 +13,13 @@ def check_image_metadata(image_file_types: list, image_dirs: list) -> None:
     """
     image_files = file_utils.find_files_with_extensions(image_dirs, image_file_types)
 
-    print('Checking image metadata for all image files.')
+    if not image_files:
+        print('No image files found in the specified directories.')
+    else:
+        print('Checking image metadata for all image files.')
 
-    for file in image_files:
-        with open(file, 'rb') as open_file:
-            metadata = exifread.process_file(open_file)
-            if metadata:
-                print(f'\nMetadata for {file}: {metadata}\n')
+        for file in image_files:
+            with open(file, 'rb') as open_file:
+                metadata = exifread.process_file(open_file)
+                if metadata:
+                    print(f'\nMetadata for {file}: {metadata}\n')
