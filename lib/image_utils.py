@@ -26,3 +26,23 @@ def resize_image(image_path: str, output_path: str, width: int | None, height: i
         height = int(cur_height * width / cur_width)
     resized_image = image.resize((width, height))
     resized_image.save(output_path)
+
+def remove_metadata(image_path: str, output_path: str) -> None:
+    """
+    Remove metadata from an image and save it to a new file.
+
+    Args:
+        image_path: Path to the image to remove metadata from.
+        output_path: Path to save the image without metadata.
+    """
+    if image_path.endswith('.heic'):
+        image = pillow_heif.open_heif(image_path)
+        image = image.to_pillow()
+    else:
+        image = Image.open(image_path)
+    if output_path.endswith('.heic'):
+        raise ValueError('Please select a format other than HEIC to save as.')
+    data = list(image.getdata())
+    image_without_exif = Image.new(image.mode, image.size)
+    image_without_exif.putdata(data)
+    image_without_exif.save(output_path)

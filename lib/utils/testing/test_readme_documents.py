@@ -1,6 +1,5 @@
-import os
-
 from lib import file_utils
+
 
 def check_readme_documents(readme_file: str, document_file_types: list, document_directories: list) -> None:
     """
