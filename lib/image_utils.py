@@ -20,6 +20,8 @@ def resize_image(image_path: str, output_path: str, width: int | None, height: i
     else:
         image = Image.open(image_path)
     cur_width, cur_height = image.size
+    if cur_width == width and cur_height == height:
+        raise ValueError('Image is already the specified size.')
     if not width:
         width = int(cur_width * height / cur_height)
     elif not height:
