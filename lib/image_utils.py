@@ -26,11 +26,12 @@ def resize_image(image_path: str, output_path: str, width: int | None, height: i
         height = int(cur_height * width / cur_width)
     resized_image = image.resize((width, height))
     if cur_width == width and cur_height == height:
-        print('Image is already the specified size.')
-    if output_path.endswith('.heic'):
-        pillow_heif.from_pillow(resized_image).save(output_path)
+        print('Image is already the specified size. Skipping.')
     else:
-        resized_image.save(output_path)
+        if output_path.endswith('.heic'):
+            pillow_heif.from_pillow(resized_image).save(output_path)
+        else:
+            resized_image.save(output_path)
 
 def remove_metadata(image_path: str, output_path: str) -> None:
     """
