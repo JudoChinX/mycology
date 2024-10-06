@@ -7,4 +7,3 @@ for image in image_files:
     extension = image.split('.')[-1]
     print(f'Resizing {image} to {name}.{extension}')
     resize_image(image, f'{name}.{extension}', 800, None)
- 
