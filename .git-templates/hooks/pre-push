@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Pylint all python files before pushing.
+pylint $(git ls-files '*.py')
+
+# Sort all imports before pushing.
+isort .

@@ -1,6 +1,26 @@
 import pillow_heif
+import qrcode
 from PIL import Image
 
+
+def create_qr_code(data: str, output_path: str) -> None:
+    """
+    Create a QR code from the specified data and save it to a file.
+
+    Args:
+        data: Data to store in the QR code.
+        output_path: Path to save the QR code.
+    """
+    qr = qrcode.QRCode(
+        version=None,
+        error_correction=qrcode.constants.ERROR_CORRECT_M,
+        box_size=10,
+        border=4,
+    )
+    qr.add_data(data)
+    qr.make(fit=True)
+    img = qr.make_image(fill_color='black', back_color='white')
+    img.save(output_path)
 
 def resize_image(image_path: str, output_path: str, width: int | None, height: int | None) -> None:
     """

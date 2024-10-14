@@ -3,7 +3,14 @@ import argparse
 from lib.file_utils import find_files_with_extensions
 from lib.image_utils import resize_image
 
+
 def resize_images(image_directories: list, image_file_extensions: list):
+    """ Resize images in the specified directories.
+
+    Args:
+        image_directories: Directories containing images to resize.
+        image_file_extensions: Image file extensions to resize.
+    """
     image_files = find_files_with_extensions(image_directories, image_file_extensions)
     for image in image_files:
         name = image.split('.')[0]
