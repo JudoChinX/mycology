@@ -21,7 +21,7 @@ def resize_images(image_directories: list, image_file_extensions: list):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Resize images in the specified directories.')
     parser.print_help()
-    parser.add_argument('--image-directories', nargs='+', help='Directories containing images to resize.')
-    parser.add_argument('--image-file-extensions', nargs='+', default=['.jpg', '.jpeg', '.png', '.heic'], help='Image file extensions to resize.')
+    parser.add_argument('--image-directories', nargs='+', help='Directories containing images to resize.', required=True)
+    parser.add_argument('--image-file-extensions', nargs='+', default=['.jpg', '.jpeg', '.png', '.heic'], help='Image file extensions to resize.', required=True)
     args = parser.parse_args()
     resize_images(image_directories=args.image_directories, image_file_extensions=args.image_file_extensions)
